@@ -1,3 +1,4 @@
+*.DS_Store
 # Prerequisites
 *.d
 
@@ -30,3 +31,22 @@
 *.exe
 *.out
 *.app
+
+*.db
+*.ipch
+*.ik
+*.pdb
+*.sln
+*.recipe
+*.log
+*.tlog
+*.lastbuildstate
+*.filters
+*.user
+*.suo
+*.ilk
+*.idb
+*.json
+*.db-shm
+*.db-wal
+*.opendb
